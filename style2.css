@@ -1,0 +1,24 @@
+
+h1{
+    text-align: center;
+}
+
+.car{
+    width: 27%;
+    padding: 20px;
+    display: inline-block;
+    border: 2px solid orangered;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: #111;
+    color: #fff;
+    img{
+        width: 100%;
+        height: 250px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    a{
+        font-size: x-small;
+    
+    }
+}
